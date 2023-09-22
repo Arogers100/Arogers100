@@ -29,18 +29,15 @@ Here are some of the technologies and skills I'm proficient in:
 
 You can also find me on other platforms:
 
-- 🌐 Portfolio: [Your Portfolio Website]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+- 🌐 Portfolio: https://arogers100.github.io/MyPortfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/ankesh-mishra-46b7711b6/
 - 📧 Email: ankeshmishra900@gmail.com
 
 ## 🚀 My Projects
 
 Here are some of my noteworthy projects:
 
-- [Project Name](Project Link): Brief project description.
-- [Project Name](Project Link): Brief project description.
-- [Project Name](Project Link): Brief project description.
+-you can check my Repositories for Projects
 
 Feel free to explore my repositories for more!
 
@@ -48,8 +45,7 @@ Feel free to explore my repositories for more!
 
 If you'd like to collaborate, chat, or have any questions, feel free to reach out. I'm always open to new opportunities and discussions.
 
-📧 Email: [Your Email Address]
-🐦 Twitter: [Your Twitter Handle]
-💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: https://www.linkedin.com/in/ankesh-mishra-46b7711b6/
+- 📧 Email: ankeshmishra900@gmail.com
 
 Thanks for visiting my GitHub profile! 😄
